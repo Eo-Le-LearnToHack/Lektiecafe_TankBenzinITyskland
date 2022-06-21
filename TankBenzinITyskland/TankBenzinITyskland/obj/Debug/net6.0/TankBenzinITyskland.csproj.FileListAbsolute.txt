@@ -1,0 +1,15 @@
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\bin\Debug\net6.0\TankBenzinITyskland.exe
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\bin\Debug\net6.0\TankBenzinITyskland.deps.json
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\bin\Debug\net6.0\TankBenzinITyskland.runtimeconfig.json
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\bin\Debug\net6.0\TankBenzinITyskland.dll
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\bin\Debug\net6.0\TankBenzinITyskland.pdb
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\TankBenzinITyskland.csproj.AssemblyReference.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\TankBenzinITyskland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\TankBenzinITyskland.AssemblyInfoInputs.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\TankBenzinITyskland.AssemblyInfo.cs
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\TankBenzinITyskland.csproj.CoreCompileInputs.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\TankBenzinITyskland.dll
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\refint\TankBenzinITyskland.dll
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\TankBenzinITyskland.pdb
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\TankBenzinITyskland.genruntimeconfig.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\TankBenzinITyskland\obj\Debug\net6.0\ref\TankBenzinITyskland.dll

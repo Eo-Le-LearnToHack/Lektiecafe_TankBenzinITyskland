@@ -1,0 +1,15 @@
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\bin\Debug\net6.0\ObjektOrienteretProgrammering.exe
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\bin\Debug\net6.0\ObjektOrienteretProgrammering.deps.json
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\bin\Debug\net6.0\ObjektOrienteretProgrammering.runtimeconfig.json
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\bin\Debug\net6.0\ObjektOrienteretProgrammering.dll
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\bin\Debug\net6.0\ObjektOrienteretProgrammering.pdb
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\ObjektOrienteretProgrammering.csproj.AssemblyReference.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\ObjektOrienteretProgrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\ObjektOrienteretProgrammering.AssemblyInfoInputs.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\ObjektOrienteretProgrammering.AssemblyInfo.cs
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\ObjektOrienteretProgrammering.csproj.CoreCompileInputs.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\ObjektOrienteretProgrammering.dll
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\refint\ObjektOrienteretProgrammering.dll
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\ObjektOrienteretProgrammering.pdb
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\ObjektOrienteretProgrammering.genruntimeconfig.cache
+C:\Users\sim8hu\Desktop\Code\cSharp\LektieCafe\TankBenzinITyskland\ObjektOrienteretProgrammering\obj\Debug\net6.0\ref\ObjektOrienteretProgrammering.dll
